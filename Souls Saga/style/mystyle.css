@@ -5,25 +5,16 @@ body
 	background-color:#2E2E2E;
 }
 
-h1
+h1, h2
 {
 	color:#F4FA58;
 	text-align:center;
-	font-family:"OptimusPrinceps";
-}
-
-h2  
-{
-	color:#F4FA58;
-	text-align:center;
-	text-decoration:bold;
 	font-family:"OptimusPrinceps";
 }
 
 h4        
 {
 	color:#F4FA58;
-	text-decoration:bold;
 }
 
 p
@@ -32,27 +23,21 @@ p
 	text-align:justify;
 }
 
-a:link    
+a
 {
+	color:#E6E6E6;
 	text-decoration:none;
 }
 
 a:hover   
 {
 	background:#DF7401;
-	text-decoration:none;
 }
 
-a:active  
+ul
 {
-	text-decoration:none;
+	list-style-type:none;
 }
-
-a:visited 
-{
-	color:#E6E6E6;
-	text-decoration:none;
-} 
 
 table
 {
@@ -62,38 +47,42 @@ table
 	margin-left:200px;
 	margin-right:200px;
 	border:1px solid black;
-	background-position:center;
 }
 
 #I
 {
 	background:url(../images/YD.jpg);
+	background-size:100% 100%;
 }
 
 #D
 {
 	background:url(../images/D.jpg);
+	background-size:100% 100%;
 }
 
 #D1
 {
-	padding-top:150px;
 	background:url(../images/D1.jpg);
+	background-size:100% 100%;
 }
 
 #D2
 {
 	background:url(../images/D2.jpg);
+	background-size:100% 100%;
 }
 
 #D3
 {
 	background:url(../images/D3.jpg);
+	background-size:100% 100%;
 }
 
 #BB
 {
 	background:url(../images/BB.jpg);
+	background-size:100% 100%;
 }
 
 #date
