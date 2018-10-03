@@ -38,7 +38,7 @@ a
 
 a:hover   
 {
-	color:#DF0101;
+	color:#FF0000;
 }
 
 table
@@ -46,7 +46,7 @@ table
 	margin-right:200px;
 	margin-left:200px;
 	padding:50px;
-	height:600px;
+	height:560px;
 	width:80%;
 }
 
@@ -85,7 +85,7 @@ table
 {
 	background:url(../images/D3.jpg);
 	background-size:100% 100%;
-	padding-bottom:87px;
+	padding-bottom:88px;
 }
 
 #BB
@@ -97,5 +97,10 @@ table
 #Date
 {
 	text-align:right;
-	color:#FFFFFF;
+	color:#F4FA58;
+}
+
+#NDR
+{
+	padding-bottom:83px;
 }
