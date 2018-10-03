@@ -1,14 +1,14 @@
 body
 {
-	color:#E6E6E6;	
-	background:#000000;
 	font-family:"Soul_Font";
+	background:#000000;
+	color:#FFFFFF;
 }
 
 h1, h2
 {
-	text-align:center;
 	font-family:"OptimusPrinceps";
+	text-align:center;
 }
 
 h1, h4
@@ -16,49 +16,38 @@ h1, h4
 	color:#F4FA58;
 }
 
-h2
-{
-	color:#FFFFFF;
-}
-
 p
 {
-	color:#FF0000;
 	text-align:justify;
+	color:#FF0000;
 }
 
 hr
 {
-	border:0;
-	width:50%;
-	height:1px;
 	background:#BDBDBD;
+	height:1px;
+	width:50%;
+	border:0;
 }
 
 a
 {
-	color:#E6E6E6;
 	text-decoration:none;
+	color:#FFFFFF;
 }
 
 a:hover   
 {
-	background:#DF7401;
-}
-
-ul
-{
-	list-style-type:none;
+	color:#DF0101;
 }
 
 table
 {
-	border:0;
-	width:80%;
-	height:600px;
-	padding:50px;
-	margin-left:200px;
 	margin-right:200px;
+	margin-left:200px;
+	padding:50px;
+	height:600px;
+	width:80%;
 }
 
 #H
@@ -107,6 +96,6 @@ table
 
 #Date
 {
-	color:#E6E6E6;
 	text-align:right;
+	color:#FFFFFF;
 }
